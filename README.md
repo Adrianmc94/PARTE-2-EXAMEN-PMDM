@@ -33,3 +33,6 @@ Para que todo el sistema funcione correctamente, se han configurado los siguient
 * **Tags:** La bola tiene asignado el Tag **"Player"** para que el cubo pueda identificarla en el código de colisión.
 * **Colliders:** Tanto el cubo como la bola tienen sus Colliders con la opción **Is Trigger desactivada**, permitiendo el choque físico.
 * **Asignación de quien persigue a quien:** Se arrastra el scrip del enemigo al cubo y en el insperctor se le añade el objeto Player para que el enemigo persiga a la bola en este caso.
+
+* <img width="1516" height="840" alt="Captura desde 2026-02-20 11-44-32" src="https://github.com/user-attachments/assets/8244ca32-6c2b-4835-ba87-b3700194f1bd" />
+
